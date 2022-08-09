@@ -1,0 +1,21 @@
+﻿<Window x:Class="DodgeGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DodgeGame"
+        mc:Ignorable="d"
+        Title="MainWindow" WindowStartupLocation="CenterScreen" Height="1000" Width="1000">
+
+    <Border BorderBrush="Black" BorderThickness="0" >
+        <Canvas Name="GameArea" Background="LightBlue" Focusable="True" KeyDown="KeyIsDown" KeyUp="KeyIsUp" ClipToBounds="True" Height="1000" Width="1000">
+            <!--<Image x:Name="PlayerImage" Tag="PlayerImage" Source="/Assets/PlayerImage.png" Height="50" Width="50" Canvas.Left="44" Canvas.Top="48" Stretch="Fill"/>
+            <Image x:Name="Enemy1Image" Tag="Enemy1Image" Source="/Assets/EnemyImage.png" Height="50" Width="50" Canvas.Left="166" Canvas.Top="690" Stretch="Fill"/>
+            <Image x:Name="Enemy2Image" Tag="Enemy2Image" Source="/Assets/EnemyImage.png" Height="50" Width="50" Canvas.Left="475" Canvas.Top="848" Stretch="Fill"/>
+            <Image x:Name="Enemy3Image" Tag="Enemy3Image" Source="/Assets/EnemyImage.png" Height="50" Width="50" Canvas.Left="700" Canvas.Top="579" Stretch="Fill"/>
+            <Image x:Name="Enemy4Image" Tag="Enemy4Image" Source="/Assets/EnemyImage.png" Height="50" Width="50" Canvas.Left="331" Canvas.Top="293" Stretch="Fill"/>
+            <Image x:Name="Enemy5Image" Tag="Enemy5Image" Source="/Assets/EnemyImage.png" Height="50" Width="50" Canvas.Left="777" Canvas.Top="151" Stretch="Fill"/>-->
+        </Canvas>
+    </Border>
+
+</Window>

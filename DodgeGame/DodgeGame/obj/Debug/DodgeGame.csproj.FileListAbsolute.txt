@@ -1,0 +1,39 @@
+E:\Sela\DodgeGame\DodgeGame\bin\Debug\DodgeGame.exe.config
+E:\Sela\DodgeGame\DodgeGame\bin\Debug\DodgeGame.exe
+E:\Sela\DodgeGame\DodgeGame\bin\Debug\DodgeGame.pdb
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame.csproj.AssemblyReference.cache
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame.csproj.SuggestedBindingRedirects.cache
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\MainMenu.g.cs
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\MainWindow.g.cs
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\App.g.cs
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame_MarkupCompile.cache
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame_MarkupCompile.lref
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\MainMenu.baml
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\MainWindow.baml
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame.g.resources
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame.Properties.Resources.resources
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame.csproj.GenerateResource.cache
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame.csproj.CoreCompileInputs.cache
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame.exe
+E:\Sela\DodgeGame\DodgeGame\obj\Debug\DodgeGame.pdb
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\bin\Debug\DodgeGame.exe.config
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\bin\Debug\DodgeGame.exe
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\bin\Debug\DodgeGame.pdb
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame.csproj.AssemblyReference.cache
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\MainMenu.g.cs
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\MainWindow.g.cs
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\PauseMenu.g.cs
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\App.g.cs
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame_MarkupCompile.cache
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame_MarkupCompile.lref
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\App.baml
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\MainMenu.baml
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\MainWindow.baml
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\PauseMenu.baml
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame.g.resources
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame.Properties.Resources.resources
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame.csproj.GenerateResource.cache
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame.exe
+D:\Visual Studio-Projects\DodgeGame\DodgeGame\obj\Debug\DodgeGame.pdb

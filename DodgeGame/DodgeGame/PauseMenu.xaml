@@ -1,0 +1,15 @@
+﻿<Window x:Class="DodgeGame.PauseMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DodgeGame"
+        mc:Ignorable="d"
+        Title="PauseMenu" Height="250" Width="250" WindowStartupLocation="CenterScreen">
+    <Canvas Name="PauseMenuC" Background="LightBlue" ClipToBounds="True"  KeyDown="KeyIsDown" Focusable="True">
+        <Label Content="Pause Menu" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="Stencil" FontSize="24" Canvas.Left="47"/>
+        <Button Content="Exit" Tag="ExitButton" HorizontalAlignment="Center" VerticalAlignment="Top" Height="30" Width="120" Click="ExitButton_Click" Canvas.Left="65" Canvas.Top="168"/>
+        <Button Content="Resume" Tag="ResumeButton" HorizontalAlignment="Center" VerticalAlignment="Top" Height="30" Width="120" Canvas.Left="65" Canvas.Top="66" Click="ResumeButton_Click"/>
+        <Button Content="Save" Tag="SaveButton" HorizontalAlignment="Center" VerticalAlignment="Top" Height="30" Width="120" Click="SaveButton_Click" Canvas.Left="65" Canvas.Top="117"/>
+    </Canvas>
+</Window>
